@@ -43,11 +43,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId>
-			<version>5.3.13</version>
-		</dependency>
 
 	</dependencies>
 	<dependencyManagement>
@@ -69,7 +64,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>2504998/${project.artifactId}</name>
+						<name>comeee98/${project.artifactId}</name>
 					</image>
 				</configuration>
 			</plugin>
